@@ -73,7 +73,7 @@ const Navbar = () => {
         <div className="flex items-center space-x-4">
           <div className="flex items-center space-x-3">
             <div className="w-10 h-10 bg-gradient-primary rounded-2xl flex items-center justify-center shadow-glow transform hover:scale-110 transition-all duration-300 animate-float">
-              <span className="text-white font-bold text-lg">G</span>
+              <span className="text-white font-bold text-lg">Gym</span>
             </div>
             <div className="hidden sm:block">
               <h1 className="text-2xl font-bold bg-gradient-to-r from-primary-600 to-primary-800 dark:from-primary-400 dark:to-primary-600 bg-clip-text text-transparent">
